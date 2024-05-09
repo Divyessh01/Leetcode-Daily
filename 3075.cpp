@@ -1,5 +1,7 @@
 // 3075. Maximize Happiness of Selected Children
 
+// https://leetcode.com/problems/maximize-happiness-of-selected-children/solutions/5136740/basic-intuition-sort-and-take-out-maximum-each-time-greedily/
+
 class Solution {
 public:
     long long maximumHappinessSum(vector<int>& happiness, int k) {
